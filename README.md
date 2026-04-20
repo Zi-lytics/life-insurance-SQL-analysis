@@ -40,3 +40,11 @@ SELECT
 FROM kaggle
 GROUP BY "POLICY STATUS"
 ORDER BY policy_count DESC;
+
+## Sample Output
+
+### Policy Status Distribution
+![Policy Status](screenshots/policy_status_distribution.png)
+
+### Underperforming Policy Rate
+![Underperformance](screenshots/underperformance_rate.png)
