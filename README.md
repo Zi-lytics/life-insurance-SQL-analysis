@@ -24,6 +24,14 @@ Insurance portfolios often experience policy lapses and surrenders, which reduce
 ## Files
 - `queries.sql` – SQL queries used for policy performance analysis
 
+## Tools Used
+- SQLite
+- SQL
+- DB Browser for SQLite
+
+## Business Relevance
+This type of analysis can support retention strategy, risk monitoring, and portfolio management by identifying patterns associated with policy lapse and surrender.
+
 ## Example Analysis
 ```sql
 SELECT
